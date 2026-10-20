@@ -1,4 +1,5 @@
 - Analisis Komparatif Platform: Web, Desktop, dan Mobile
+  
 1. Platform Web
  Bahasa Utama: Menggunakan HTML (HyperText Markup Language) untuk struktur, CSS (Cascading Style Sheets) untuk styling, dan JavaScript (serta TypeScript atau WebAssembly) untuk fungsionalitas dan interaksi.
 
@@ -39,6 +40,7 @@
  Contoh Aplikasi: WhatsApp, Instagram, Google Maps, dan Mobile Legends.
 
 - Sumber Referensi
+  
 Johnson, T., & Seeling, P. (2014). Desktop and mobile web page comparison: characteristics, trends, and implications. IEEE Communications Magazine, 52(6), 144-151.
 
 Fransisca, M., & Saputri, R. P. (2024). Comparative Study Of Android-Based Learning Media With Web-Based Learning Media. The Indonesian Journal of Computer Science, 13(4).
