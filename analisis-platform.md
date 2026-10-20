@@ -11,11 +11,11 @@
 
 - Sumber Referensi
 
-Johnson, T., & Seeling, P. (2014). Desktop and mobile web page comparison: characteristics, trends, and implications. IEEE Communications Magazine, 52(6), 144-151.
+Johnson, T., & Seeling, P. (2014). Desktop and mobile web page comparison: characteristics, trends, and implications. IEEE Communications Magazine, 52(6), 144-151. [https://ieeexplore.ieee.org/abstract/document/6894465]
 
-Fransisca, M., & Saputri, R. P. (2024). Comparative Study Of Android-Based Learning Media With Web-Based Learning Media. The Indonesian Journal of Computer Science, 13(4).
+Fransisca, M., & Saputri, R. P. (2024). Comparative Study Of Android-Based Learning Media With Web-Based Learning Media. The Indonesian Journal of Computer Science, 13(4). [https://www.ijcs.net/ijcs/index.php/ijcs/article/view/4008]
 
-Sommerville, I. (2015). Software Engineering (10th ed.). Pearson.
+Sommerville, I. (2015). Software Engineering (10th ed.). Pearson. [https://books.google.co.id/books?hl=id&lr=&id=_N0zEAAAQBAJ&oi=fnd&pg=PT23&dq=Sommerville,+I.+(2015).+Software+Engineering+(10th+ed.).+Pearson.&ots=4aRWrjn8FH&sig=C2MRnHiVwxqnOWIDRfI2xN14pds&redir_esc=y#v=onepage&q=Sommerville%2C%20I.%20(2015).%20Software%20Engineering%20(10th%20ed.).%20Pearson.&f=false]
 
 - Refleksi
 
