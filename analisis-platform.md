@@ -1,4 +1,5 @@
 - Analisis Komparatif Platform: Web, Desktop, dan Mobile
+
 | Aspek | Web | Desktop | Mobile |
 | :--- | :--- | :--- | :--- |
 | **Bahasa utama** | Menggunakan HTML (HyperText Markup Language) untuk struktur, CSS (Cascading Style Sheets) untuk styling, dan JavaScript (serta TypeScript atau WebAssembly) untuk fungsionalitas dan interaksi. | Menggunakan bahasa pemrograman yang mendukung performa sistem tinggi seperti C++, C#, Java, Python, Swift, atau Rust. | Menggunakan bahasa spesifik seperti Swift untuk iOS, Kotlin/Java untuk Android, atau kerangka kerja cross-platform seperti Dart (Flutter) dan JavaScript/TypeScript (React Native). |
